@@ -1,4 +1,4 @@
-# Scrapper de supermercados de la ciudad de Rosario, Santa Fe, Argentina con rotación de IP
+# Scrapper de supermercados de la ciudad de Rosario, Santa Fe, Argentina con rotación de IP (Suspendido de momento)
 
 ## Funcionamiento
 
